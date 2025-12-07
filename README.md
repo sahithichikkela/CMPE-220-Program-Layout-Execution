@@ -117,7 +117,7 @@ This project demonstrates recursion implemented in **assembly**, executed on the
 ### 1. factorial_recursive.asm  
 Computes `n!` using:  
 ```
-fact(n):
+factorial(n):
     if n <= 1: return 1
     else: return n * fact(n-1)
 ```
