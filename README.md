@@ -5,7 +5,7 @@ A complete software-based 16-bit CPU implementation in C, featuring a custom ins
 ---
 
 ## Demo Video
-(Insert your video link here)
+https://drive.google.com/file/d/1P-1dQkme1VIxpPPY_mZYLJAssnH6b4Ty/view?usp=sharing
 
 ---
 
