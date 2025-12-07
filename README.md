@@ -11,10 +11,10 @@ https://drive.google.com/file/d/1P-1dQkme1VIxpPPY_mZYLJAssnH6b4Ty/view?usp=shari
 
 # Team Members & Contributions
 
-- **Vinuta Patil** – CPU Architecture & ISA Design  
-- **Abhinav Sriharsha Anumanchi** – CPU Core & ALU Implementation  
-- **Vineela Mukkamala** – Memory Management, Control Flow & Video  
-- **Sahithi Chikkela** – Recursive Programs, Testing, Documentation
+- **Vinuta Patil** – CPU Architecture & ISA Support for Recursion  
+- **Abhinav Sriharsha Anumanchi** – CPU Core Behavior & ALU Operations  
+- **Vineela Mukkamala** – Memory Management, Stack Operations & Video  
+- **Sahithi Chikkela** – Recursive Programs, Testing & Documentation
 
 ---
 
